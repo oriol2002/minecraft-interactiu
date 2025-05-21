@@ -1,0 +1,17 @@
+# __PYTHON__
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.venv/
+.vscode/
+
+# __MAC / WINDOWS__
+.DS_Store
+Thumbs.db
+
+# __IDE__
+.idea/
+*.code-workspace
